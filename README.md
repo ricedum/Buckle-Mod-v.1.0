@@ -1,2 +1,2 @@
-# ricedum made
-#Bukcle Mod v.1.0
+# Buckle Mod v.10
+기본적 틀
